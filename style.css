@@ -19,6 +19,7 @@ body{
     margin: 10px;
     animation: wave 1s linear infinite;
     border-radius: 20px;
+     z-index: 9990;
 }
 
 .wave:nth-child(2) {
